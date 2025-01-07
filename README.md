@@ -23,7 +23,7 @@ python TumorSimul3D_SMALT_simulate_monoclonal.py <replicate_name> <num_hotspots>
 
 **Description:**
 
-This code is an adaptation of a previously established 3D agent-based tumor modeling framework ([reference 2] in code). It simulates:
+This code is an adaptation of a previously established 3D agent-based tumor modeling framework. It simulates:
 
 * Spatial tumor growth within a 3D lattice with interacting subpopulations (demes).
 * Cell birth and death processes within each deme.
